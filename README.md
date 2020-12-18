@@ -1,7 +1,7 @@
 # UFSC - CTC - INE - INE5603
 ## Prof. Leandro J. Komosinski
 
-Material didático para o semestre 2020/1.
+Material didático para o semestre 2020/2.
 
 1. [Introdução](texto/ine5603-introducao.ipynb)
 2. [Algoritmos](texto/ine5603-algoritmos.ipynb)
